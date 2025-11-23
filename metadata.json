@@ -1,0 +1,5 @@
+{
+  "name": "Java 算法可视化 AI",
+  "description": "一个交互式的动态排序算法可视化工具。实时观看算法排序过程，调整速度，并查看 AI 生成的 Java 实现和复杂度分析。",
+  "requestFramePermissions": []
+}
